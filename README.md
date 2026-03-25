@@ -1,4 +1,4 @@
-# EdUx Learning Platform
+# EduX Learning Platform
 
 A modern, full-stack e-learning platform with AI-powered features, built with Next.js, Express.js, and MongoDB.
 
